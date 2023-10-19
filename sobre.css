@@ -1,0 +1,30 @@
+body{
+    margin: 0; padding: 0; background-image: url(background\ page\ sobre.png);
+}
+.slider{border: 1px solid; height:40%; width:60%; margin-left: 23%;} 
+
+.login img{
+    height: 30px;
+    width: 30px;
+}
+
+.cock {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #ffffffbb;
+    border: 2px solid #e40c0c;
+    opacity: 0.8;
+    border-radius: 5px;
+    padding: 100px;
+    margin: 50px;
+}
+
+.cock .texto p{
+    color: black; font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar-collapse{
+    display: flex; justify-content: center;
+}
+/*RODAPÉ*/
